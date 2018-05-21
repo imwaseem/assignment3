@@ -1,0 +1,90 @@
+Overview articles
+Overview articles summarize in prose a broad topic like biology, and also have illustrations and links to subtopics like cell biology, biographies like Carl Linnaeus, and other related articles like Human Genome Project.
+
+Portal:Contents/Overviews lists overview articles from covered areas of knowledge in a single page.
+Outline pages
+Outline pages have trees of topics in an outline format, which in turn are linked to further outlines and articles providing more detail. Outlines show how important subtopics relate to each other based on how they are arranged in the tree, and they are useful as a more condensed, non-prose alternative to overview articles.
+
+Portal:Contents/Outlines is a comprehensive list of "Outline of __" pages, organized by subject. It is itself an outline, that links (almost) exclusively to other outlines.
+Outline of academic disciplines covers subjects studied in college or university, and provides links to prose overview articles and their corresponding outlines.
+Outline of knowledge is the top-level outline, its subject being the broadest one of all. It is the ancestor of all other outlines, and they branch out from it, in successive levels.
+Third-party classification systems
+Various third-party classification systems have been mapped to Wikipedia articles, which can be accessed from these pages:
+
+List of Dewey Decimal classes
+Library of Congress Classification
+Wikipedia:Outline of Roget's Thesaurus
+Vital articles
+Main page: Wikipedia:Vital articles
+Vital articles are lists of subjects for which Wikipedia should have corresponding high-quality articles. They serve as centralized watchlists to track the status of Wikipedia's most important articles.
+
+Vital articles level 1 – 10 most important articles
+Vital articles level 2 – 100 most important articles
+Vital articles level 3 – 1,000 most important articles
+Vital articles level 4 – 10,000 most important articles
+Reference collections
+Wikipedia has several types of pages which provide content in a non-prose form, for reference purposes.
+
+List pages
+List pages enumerate items of a particular type, such as the List of sovereign states or List of South Africans. Wikipedia has "lists of lists" when there are too many items to fit on a single page, when the items can sorted in different ways, or as a way of navigating lists on a topic (for example Lists of countries and territories or Lists of people). There are several ways to find lists:
+
+Portal:Contents/Lists – A limited single-page collection of lists and lists of lists
+List of lists of lists – A broad single-page collection of lists of lists
+Category:Lists – Browse lists comprehensively via the multi-page Wikipedia category system
+Timelines
+Timelines list events chronologically, sometimes including links to articles with more detail. There are several ways to find timelines:
+
+List of timelines has a long single-page collection
+Category:Timelines has a comprehensive multi-page collection via the Wikipedia category system
+Of particular interest may be:
+
+List of centuries
+List of decades
+List of historical anniversaries – e.g. events on January 1 of any year
+2018 – major events this year
+Portal:Current events – featured current events and related project activities
+Deaths in 2018 – lists notable people who died this year
+Category:Graphical timelines – graphical timelines in the category and subcategories, arranged alphabetically
+Glossaries
+Glossaries are lists of terms with definitions. Wikipedia includes hundreds of alphabetical glossaries; they can be found two ways:
+
+Portal:Contents/Glossaries – A single-page list of glossaries
+Category:Wikipedia glossaries – Browse glossaries comprehensively via the Wikipedia category system
+Bibliographies
+Bibliographies list sources on a given topic, for verification or further reading outside Wikipedia:
+
+Wikipedia:List of bibliographies is a list of bibliographies
+Category:Wikipedia bibliographies has a complete multi-page listing of bibliographies on Wikipedia
+Category:Discographies
+Discographies catalog the sound recordings of individual artists or groups.
+
+Category:Discographies has a complete multi-page listing
+Special format collections
+Portals
+Portals include featured articles, images, news, categories, excerpts of key articles, links to related portals, and to-do lists for editors. There are two ways to find portals:
+
+Portal:Contents/Portals – A single-page list of portals
+Category:Portals – Browse portals comprehensively via the Wikipedia category system
+Wikipedia books
+Wikipedia books are collections of Wikipedia articles that can be viewed, downloaded, or printed into a book. They provide a roadmap for a course of study in a particular subject.
+
+Category:Wikipedia books (community books) – an alphabetical list of the books
+Category:Wikipedia books – a list of the books, categorized by topic
+Spoken articles
+Growing collections of Wikipedia articles are starting to become available as spoken word recordings as well.
+
+Category:Spoken articles – an organized list of all spoken articles
+Wikipedia:Spoken articles – some general information about the spoken article technology
+Collections of articles
+Category system
+Wikipedia's collection of category pages is a classified index system. It is automatically generated from category tags at the bottoms of articles and most other pages. Nearly all of the articles available so far on the website can be found through these subject indexes.
+
+If you are simply looking to browse articles by topic, there are three top-level pages to choose from:
+
+Category:Main topic classifications – probably what you are looking for: Arts, History, Technology, etc.
+Portal:Contents/Categories – a hand-crafted list of first- and second-level topic categories
+For biographies, see Category:People.
+
+Category:Contents is technically at the top of the category hierarchy, but contains many categories useful to editors but not readers. Special:Categories lists every category alphabetically.
+
+Alphabetical lists of articles
